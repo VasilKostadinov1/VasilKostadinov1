@@ -2,6 +2,6 @@
 
 
 
-- 
+
 - 🌱 I’m currently learning Java at Software University - SoftUni.
 
