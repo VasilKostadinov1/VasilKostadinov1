@@ -7,6 +7,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VasilKostadinov1&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/VasilKostadinov1 ryo-ma)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=VasilKostadinov1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
