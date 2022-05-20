@@ -5,7 +5,7 @@
 
 - � I’m currently learning Java at Software University - SoftUni.
 - � Certified at Programming FUNDAMENTALS with JAVA.
-- � https://softuni.bg/users/profile/certificates?username=VasilKos
+- � CERTIFICATES : https://softuni.bg/users/profile/certificates?username=VasilKos
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VasilKostadinov1&theme=radical)
 
