@@ -7,6 +7,7 @@
 - � Certified at Programming FUNDAMENTALS with JAVA.
 - � Certified at Programming ADVANCE with JAVA.
 - � Certified at Programming OOP with JAVA.
+- � Certified at MySQL Data Base.
 - � CERTIFICATES : https://softuni.bg/users/profile/certificates?username=VasilKos
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VasilKostadinov1&theme=radical)
